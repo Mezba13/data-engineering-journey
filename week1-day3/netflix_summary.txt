@@ -1,0 +1,15 @@
+NETFLIX DATA CLEANING REPORT
+========================================
+Total rows loaded: 8807
+Rows after cleaning: 8807
+Movies after 2015: 3619
+TV Shows: 2676
+Movies: 6131
+
+Top 5 Countries:
+country
+United States     2818
+India              972
+Unknown            831
+United Kingdom     419
+Japan              245
