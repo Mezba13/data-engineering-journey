@@ -1,0 +1,102 @@
+2026-08-15 16:03:58,361 - INFO - Attempting to read file: C:\Users\Lenovo\Desktop\data-engineering-journey\week1-day3\clean_netflix.csv
+2026-08-15 16:03:58,417 - INFO - Success: Read 3396844 characters from C:\Users\Lenovo\Desktop\data-engineering-journey\week1-day3\clean_netflix.csv
+2026-08-15 16:03:58,418 - INFO - Attempting to read file: fake_file.txt
+2026-08-15 16:03:58,419 - ERROR - FileNotFoundError: The file fake_file.txt does not exist.
+2026-08-15 16:03:58,419 - INFO - Attempting to divide 10 by 2
+2026-08-15 16:03:58,420 - INFO - Success: 10 divided by 2 is 5.0
+2026-08-15 16:03:58,421 - INFO - Attempting to divide 10 by 0
+2026-08-15 16:03:58,421 - ERROR - ZeroDivisionError: Cannot divide by zero. division by zero
+2026-08-15 16:03:58,422 - INFO - Attempting to divide a by 2
+2026-08-15 16:03:58,423 - ERROR - TypeError: Invalid types for division. unsupported operand type(s) for /: 'str' and 'int'
+2026-08-15 20:07:07,997 - INFO - ========== PIPELINE START ==========
+2026-08-15 20:07:07,998 - INFO - Loading CSV file from C:\Users\Lenovo\Desktop\data-engineering-journey\week1-day3\netflix_titles.csv...
+2026-08-15 20:07:08,171 - INFO - file C:\Users\Lenovo\Desktop\data-engineering-journey\week1-day3\netflix_titles.csv successfully loaded with 8807 rows
+2026-08-15 20:07:08,171 - INFO - CLEAN START: Starting with 8807 rows
+2026-08-15 20:07:08,184 - INFO - CLEAN END: Finished with 8807 rows
+2026-08-15 20:07:08,185 - INFO - Analysis start with 8807 rows
+2026-08-15 20:07:35,411 - INFO - ========== PIPELINE START ==========
+2026-08-15 20:07:35,411 - INFO - Loading CSV file from C:\Users\Lenovo\Desktop\data-engineering-journey\week1-day3\netflix_titles.csv...
+2026-08-15 20:07:35,540 - INFO - file C:\Users\Lenovo\Desktop\data-engineering-journey\week1-day3\netflix_titles.csv successfully loaded with 8807 rows
+2026-08-15 20:07:35,540 - INFO - CLEAN START: Starting with 8807 rows
+2026-08-15 20:07:35,549 - INFO - CLEAN END: Finished with 8807 rows
+2026-08-15 20:07:35,549 - INFO - Analysis start with 8807 rows
+2026-08-15 20:07:35,557 - INFO - Movies after 2015: 3619
+2026-08-15 20:07:35,558 - INFO - Calculating Movies vs TV Shows
+2026-08-15 20:07:35,565 - INFO - Calculating top 5 countries
+2026-08-15 20:07:35,569 - INFO - Calculating content by release year
+2026-08-15 20:07:35,575 - INFO - TRANSFORM END: Analysis completed
+2026-08-15 20:07:35,575 - INFO - EXPORT START: Preparing to export 8807 rows
+2026-08-15 20:07:35,579 - ERROR - EXPORT ERROR: An unexpected error occurred while exporting: Cannot save file into a non-existent directory: 'output'
+2026-08-15 20:07:35,580 - INFO - ========== PIPELINE END ==========
+2026-08-15 20:07:54,005 - INFO - ========== PIPELINE START ==========
+2026-08-15 20:07:54,006 - INFO - Loading CSV file from C:\Users\Lenovo\Desktop\data-engineering-journey\week1-day3\netflix_titles.csv...
+2026-08-15 20:07:54,080 - INFO - file C:\Users\Lenovo\Desktop\data-engineering-journey\week1-day3\netflix_titles.csv successfully loaded with 8807 rows
+2026-08-15 20:07:54,080 - INFO - CLEAN START: Starting with 8807 rows
+2026-08-15 20:07:54,087 - INFO - CLEAN END: Finished with 8807 rows
+2026-08-15 20:07:54,088 - INFO - Analysis start with 8807 rows
+2026-08-15 20:07:54,092 - INFO - Movies after 2015: 3619
+2026-08-15 20:07:54,093 - INFO - Calculating Movies vs TV Shows
+2026-08-15 20:07:54,094 - INFO - Calculating top 5 countries
+2026-08-15 20:07:54,096 - INFO - Calculating content by release year
+2026-08-15 20:07:54,098 - INFO - TRANSFORM END: Analysis completed
+2026-08-15 20:07:54,098 - INFO - EXPORT START: Preparing to export 8807 rows
+2026-08-15 20:07:54,101 - ERROR - EXPORT ERROR: An unexpected error occurred while exporting: Cannot save file into a non-existent directory: 'output'
+2026-08-15 20:07:54,101 - INFO - ========== PIPELINE END ==========
+2026-08-15 20:09:35,582 - INFO - ========== PIPELINE START ==========
+2026-08-15 20:09:35,584 - INFO - Loading CSV file from C:\Users\Lenovo\Desktop\data-engineering-journey\week1-day3\netflix_titles.csv...
+2026-08-15 20:09:35,768 - INFO - file C:\Users\Lenovo\Desktop\data-engineering-journey\week1-day3\netflix_titles.csv successfully loaded with 8807 rows
+2026-08-15 20:09:35,768 - INFO - CLEAN START: Starting with 8807 rows
+2026-08-15 20:09:35,777 - INFO - CLEAN END: Finished with 8807 rows
+2026-08-15 20:09:35,778 - INFO - Analysis start with 8807 rows
+2026-08-15 20:09:35,789 - INFO - Movies after 2015: 3619
+2026-08-15 20:09:35,789 - INFO - Calculating Movies vs TV Shows
+2026-08-15 20:09:35,792 - INFO - Calculating top 5 countries
+2026-08-15 20:09:35,795 - INFO - Calculating content by release year
+2026-08-15 20:09:35,797 - INFO - TRANSFORM END: Analysis completed
+2026-08-15 20:09:35,797 - INFO - EXPORT START: Preparing to export 8807 rows
+2026-08-15 20:09:35,800 - ERROR - EXPORT ERROR: An unexpected error occurred while exporting: Cannot save file into a non-existent directory: 'output'
+2026-08-15 20:09:35,801 - INFO - ========== PIPELINE END ==========
+2026-08-15 20:09:49,476 - INFO - ========== PIPELINE START ==========
+2026-08-15 20:09:49,476 - INFO - Loading CSV file from C:\Users\Lenovo\Desktop\data-engineering-journey\week1-day3\netflix_titles.csv...
+2026-08-15 20:09:49,543 - INFO - file C:\Users\Lenovo\Desktop\data-engineering-journey\week1-day3\netflix_titles.csv successfully loaded with 8807 rows
+2026-08-15 20:09:49,543 - INFO - CLEAN START: Starting with 8807 rows
+2026-08-15 20:09:49,548 - INFO - CLEAN END: Finished with 8807 rows
+2026-08-15 20:09:49,548 - INFO - Analysis start with 8807 rows
+2026-08-15 20:09:49,552 - INFO - Movies after 2015: 3619
+2026-08-15 20:09:49,552 - INFO - Calculating Movies vs TV Shows
+2026-08-15 20:09:49,553 - INFO - Calculating top 5 countries
+2026-08-15 20:09:49,555 - INFO - Calculating content by release year
+2026-08-15 20:09:49,556 - INFO - TRANSFORM END: Analysis completed
+2026-08-15 20:09:49,557 - INFO - EXPORT START: Preparing to export 8807 rows
+2026-08-15 20:09:49,559 - ERROR - EXPORT ERROR: An unexpected error occurred while exporting: Cannot save file into a non-existent directory: 'output'
+2026-08-15 20:09:49,559 - INFO - ========== PIPELINE END ==========
+2026-08-15 20:10:35,822 - INFO - ========== PIPELINE START ==========
+2026-08-15 20:10:35,822 - INFO - Loading CSV file from C:\Users\Lenovo\Desktop\data-engineering-journey\week1-day3\netflix_titles.csv...
+2026-08-15 20:10:35,889 - INFO - file C:\Users\Lenovo\Desktop\data-engineering-journey\week1-day3\netflix_titles.csv successfully loaded with 8807 rows
+2026-08-15 20:10:35,889 - INFO - CLEAN START: Starting with 8807 rows
+2026-08-15 20:10:35,894 - INFO - CLEAN END: Finished with 8807 rows
+2026-08-15 20:10:35,894 - INFO - Analysis start with 8807 rows
+2026-08-15 20:10:35,898 - INFO - Movies after 2015: 3619
+2026-08-15 20:10:35,898 - INFO - Calculating Movies vs TV Shows
+2026-08-15 20:10:35,899 - INFO - Calculating top 5 countries
+2026-08-15 20:10:35,901 - INFO - Calculating content by release year
+2026-08-15 20:10:35,902 - INFO - TRANSFORM END: Analysis completed
+2026-08-15 20:10:35,902 - INFO - EXPORT START: Preparing to export 8807 rows
+2026-08-15 20:10:35,904 - ERROR - EXPORT ERROR: An unexpected error occurred while exporting: Cannot save file into a non-existent directory: 'output'
+2026-08-15 20:10:35,904 - INFO - ========== PIPELINE END ==========
+2026-08-15 20:14:47,869 - INFO - ========== PIPELINE START ==========
+2026-08-15 20:14:47,869 - INFO - Loading CSV file from C:\Users\Lenovo\Desktop\data-engineering-journey\week1-day3\netflix_titles.csv...
+2026-08-15 20:14:48,010 - INFO - file C:\Users\Lenovo\Desktop\data-engineering-journey\week1-day3\netflix_titles.csv successfully loaded with 8807 rows
+2026-08-15 20:14:48,011 - INFO - CLEAN START: Starting with 8807 rows
+2026-08-15 20:14:48,019 - INFO - CLEAN END: Finished with 8807 rows
+2026-08-15 20:14:48,019 - INFO - Analysis start with 8807 rows
+2026-08-15 20:14:48,025 - INFO - Movies after 2015: 3619
+2026-08-15 20:14:48,025 - INFO - Calculating Movies vs TV Shows
+2026-08-15 20:14:48,029 - INFO - Calculating top 5 countries
+2026-08-15 20:14:48,033 - INFO - Calculating content by release year
+2026-08-15 20:14:48,035 - INFO - TRANSFORM END: Analysis completed
+2026-08-15 20:14:48,035 - INFO - EXPORT START: Preparing to export 8807 rows
+2026-08-15 20:14:48,189 - INFO - Cleaned data exported to C:\Users\Lenovo\Desktop\data-engineering-journey\week1-day5\clean_netflix.csv
+2026-08-15 20:14:48,193 - INFO - Saved summary report to C:\Users\Lenovo\Desktop\data-engineering-journey\week1-day5\netflix_summary.txt
+2026-08-15 20:14:48,193 - INFO - EXPORT END: Successfully exported 8807 rows
+2026-08-15 20:14:48,194 - INFO - ========== PIPELINE END ==========
