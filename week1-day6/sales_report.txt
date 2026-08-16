@@ -1,0 +1,15 @@
+========== SALES REPORT ==========
+
+Total Revenue: $127,662.49
+
+Top 3 Products by Revenue:
+USB Cable: $45,982.21
+Laptop: $26,057.23
+Monitor: $24,943.26
+
+Top 3 Countries by Order Count:
+France: 25 orders
+UK: 22 orders
+Germany: 22 orders
+
+Average Order Value: $1,276.62

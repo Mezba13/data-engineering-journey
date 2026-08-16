@@ -1,0 +1,101 @@
+order_id,customer_name,product,quantity,price,order_date,country
+1,Andrew Choi,USB Cable,9,254.16,2024-03-03,Japan
+2,Louis Mcclure,Mouse,10,162.17,2024-02-24,UK
+3,Tracy West,Monitor,4,299.8,2024-08-01,UK
+4,Blake Perez,Monitor,2,378.38,2024-04-17,UK
+5,Melody Smith,Laptop,4,157.07,2024-09-03,USA
+6,Jamie Neal MD,Monitor,5,393.03,2024-03-11,UK
+7,Jose Carroll,Mouse,4,367.23,2024-09-06,UK
+8,Jennifer Moore,Laptop,5,322.74,2024-08-26,Germany
+9,James Vargas,Monitor,2,197.61,2024-08-18,Japan
+10,Jason Craig,USB Cable,7,296.59,2024-09-05,Germany
+11,Brian Valencia,Monitor,8,260.91,2024-03-29,USA
+12,Gabriela Monroe,Monitor,6,148.15,2024-12-21,Germany
+13,Jennifer Mills,Monitor,4,498.1,2024-12-06,Germany
+14,Krystal George,Monitor,6,179.28,2024-01-03,USA
+15,Mark Buchanan,Mouse,9,110.52,2024-05-04,Germany
+16,Kathy Jensen MD,Keyboard,4,122.95,2024-11-17,France
+17,Lee Hopkins,Laptop,3,411.09,2024-01-25,Germany
+18,Amanda Cohen,USB Cable,8,296.47,2024-09-18,Germany
+19,Donna Davis,Keyboard,7,334.61,2024-05-12,USA
+20,Gina Gibson,USB Cable,8,463.0,2024-06-22,USA
+21,Shelly Macias,Mouse,10,247.74,2024-11-09,USA
+22,Jennifer Jackson,USB Cable,1,73.04,2024-04-29,UK
+23,Keith Bauer,Monitor,5,229.43,2024-07-06,Germany
+24,Justin Weaver,Mouse,4,419.42,2024-05-02,USA
+25,Cynthia Hughes,Laptop,5,114.99,2024-12-04,France
+26,Thomas Turner,Mouse,3,100.18,2024-11-10,France
+27,Richard Smith,USB Cable,10,330.18,2024-08-17,Germany
+28,Amy Brooks,USB Cable,6,114.39,2024-08-26,France
+29,Mia Curtis,Mouse,1,123.61,2024-02-23,Germany
+30,Alicia Good,Monitor,9,234.15,2024-08-02,Germany
+31,Angela Dean,Laptop,3,446.71,2024-10-25,Germany
+32,Martha Ortega,Laptop,8,157.08,2024-03-01,France
+33,James Williams,Mouse,3,434.01,2024-10-03,Germany
+34,Amber Curry,Laptop,1,164.48,2024-02-18,Japan
+35,Ann Mueller,USB Cable,4,180.19,2024-10-31,USA
+36,Robin Jones,USB Cable,7,464.01,2024-02-22,Japan
+37,Matthew Sandoval,Keyboard,4,109.7,2024-06-23,Germany
+38,Brittany Benson,USB Cable,8,339.53,2024-11-07,Japan
+39,Casey Day,Monitor,7,108.61,2024-06-22,Japan
+40,Allison Taylor,Mouse,6,28.77,2024-02-10,France
+41,Heather Salas,Monitor,3,258.82,2024-11-02,USA
+42,Erik Medina,Monitor,1,367.47,2024-05-29,UK
+43,Tasha Proctor,Laptop,7,161.33,2024-05-19,UK
+44,Danielle Smith,Keyboard,8,244.69,2024-08-22,USA
+45,Pam Rogers,Mouse,1,451.4,2024-12-15,Japan
+46,Juan Hines,USB Cable,4,180.53,2024-07-14,Germany
+47,Robert Mendez,Mouse,5,108.58,2024-04-12,France
+48,Bryan Brown,USB Cable,4,37.55,2024-03-28,UK
+49,Hunter Scott II,Monitor,7,341.46,2024-03-07,Germany
+50,Mrs. Misty Reid,Laptop,6,364.86,2024-08-15,France
+51,Michael Phillips,USB Cable,10,471.76,2024-07-06,France
+52,Scott Powell,Laptop,9,322.26,2024-05-05,Germany
+53,Ryan Reynolds,Keyboard,1,330.07,2024-08-20,UK
+54,James Wilson,Mouse,9,261.2,2024-01-08,UK
+55,Annette Osborne,Laptop,9,417.23,2024-01-02,Germany
+56,Angela Roberts,Mouse,6,59.23,2024-01-26,Japan
+57,Matthew Bates,USB Cable,9,18.19,2024-03-05,Germany
+58,Stephen Mccarthy,Monitor,4,98.36,2024-04-20,USA
+59,Jackie Diaz,Mouse,3,367.14,2024-07-10,France
+60,Nicholas Aguirre,Monitor,1,349.09,2024-11-25,Japan
+61,Krista Gates,USB Cable,7,437.88,2024-11-19,UK
+62,Ryan Andrews,Laptop,8,205.18,2024-01-09,Germany
+63,Eric Miller,Laptop,4,389.46,2024-11-24,USA
+64,Patricia King,Mouse,10,25.07,2024-06-22,USA
+65,Sharon Hernandez,Laptop,2,246.86,2024-05-23,UK
+66,Ana Miller,Mouse,7,331.08,2024-10-12,UK
+67,David Carter,USB Cable,6,476.65,2024-01-24,USA
+68,Brett Gray,Mouse,5,268.35,2024-10-13,France
+69,Mr. Donald Weber,USB Cable,7,323.96,2024-01-20,France
+70,Heather Roberts,USB Cable,6,91.62,2024-09-14,France
+71,Richard Clark,Keyboard,6,61.18,2024-06-08,UK
+72,Ronald Martin,Monitor,7,240.37,2024-06-18,France
+73,Collin Daniels,USB Cable,6,248.68,2024-08-10,France
+74,Stephanie Thompson,Mouse,5,295.29,2024-02-23,Japan
+75,Zachary Johnson,Mouse,5,186.58,2024-01-14,UK
+76,Jorge Martinez,Monitor,1,73.44,2024-05-22,Germany
+77,Emily Banks,Keyboard,1,307.42,2024-04-25,UK
+78,Janice Estrada,Keyboard,1,210.22,2024-08-13,Germany
+79,Douglas Johnson,USB Cable,7,435.76,2024-06-11,UK
+80,Calvin Collins,USB Cable,9,265.63,2024-03-19,USA
+81,Anne Williams,Mouse,7,240.5,2024-06-07,France
+82,Judith Burnett,Monitor,3,89.09,2024-04-01,France
+83,Jonathan James,USB Cable,7,262.44,2024-12-02,Japan
+84,Sean Baker,Mouse,1,86.08,2024-07-31,USA
+85,Michael Holland,Monitor,9,61.92,2024-11-17,France
+86,Richard Smith,Laptop,9,497.67,2024-12-04,USA
+87,Joshua Simmons,Laptop,6,153.06,2024-01-13,France
+88,Ms. Brenda Hill,Monitor,5,247.46,2024-09-04,France
+89,Sara Guerrero,Keyboard,8,24.72,2024-02-26,UK
+90,Richard Henson,Monitor,7,35.92,2024-11-01,France
+91,Richard Wagner,Monitor,7,371.72,2024-11-10,UK
+92,Barbara Gonzalez,Mouse,8,343.77,2024-09-25,UK
+93,Breanna Holloway,Laptop,7,201.13,2024-11-02,USA
+94,Dr. David Miller Jr.,Monitor,3,353.39,2024-02-12,France
+95,Eugene Fletcher,USB Cable,7,477.83,2024-08-03,UK
+96,Chad Cox,Mouse,9,29.7,2024-05-16,USA
+97,Kaitlyn Hanson DVM,USB Cable,10,135.36,2024-06-16,Japan
+98,Jessica Rivera,Laptop,10,55.97,2024-11-03,France
+99,Tanya Miller,Laptop,6,44.0,2024-03-14,France
+100,Pamela Dillon,USB Cable,7,250.85,2024-06-18,France
