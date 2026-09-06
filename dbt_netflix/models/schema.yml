@@ -1,0 +1,28 @@
+version: 2
+
+models:
+  - name: stg_netflix
+    columns:
+      - name: show_id
+        tests:
+          - not_null
+          - unique
+      - name: title
+        tests:
+          - not_null
+      - name: type
+        tests:
+          - accepted_values:
+              values: ['Movie', 'TV Show']
+  - name: dim_content_type
+    columns:
+      - name: content_type
+        tests:
+          - not_null
+          - unique
+
+  - name: fct_title_metrics
+    columns:
+      - name: show_id
+        tests:
+          - not_null
