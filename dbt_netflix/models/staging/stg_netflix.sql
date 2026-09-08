@@ -17,4 +17,4 @@ SELECT
     duration_unit,
     listed_in,
     description
-FROM clean_silver
+FROM {{source('netflix_pipeline', 'clean_silver')}}
