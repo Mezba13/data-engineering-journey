@@ -1,0 +1,12 @@
+version: 2
+
+sources:
+  - name: netflix_pipeline
+    description: "Raw data loaded by Python ETL pipeline"
+    database: netflix_db
+    schema: public
+    tables:
+      - name: netflix
+        description: "Raw Netflix titles from CSV"
+      - name: clean_silver
+        description: "Cleaned and transformed Netflix data"
